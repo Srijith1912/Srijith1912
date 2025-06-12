@@ -1,6 +1,6 @@
 ## 👋 Hey there! I’m Srijith Mulupuri
 
-  🎓 Junior CS major @ ASU
+- 🎓 Junior CS major @ ASU
 
 - 🧠 Into full-stack JavaScript, cloud, and machine learning
 - 🔨 Built & deployed MERN, ML, and AWS projects over Summer 2025
