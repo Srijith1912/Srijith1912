@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hey there! I’m Srijith Mulupuri
 
-<!--
-**Srijith1912/Srijith1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior CS major @ ASU
 
-Here are some ideas to get you started:
+🧠 Into full-stack JavaScript, cloud, and machine learning
+🔨 Built & deployed MERN, ML, and AWS projects over Summer 2025
+🏅 Earned 5+ industry certs and kept my GitHub buzzing with real-world builds
+🌱 Currently diving deeper into React, AI, and building smarter systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Looking for a 2025–26 SWE/Data Engineering internship
+🧰 Tech I use: JavaScript | React | Node | MongoDB | Python | AWS | Java | C++
+🎯 Goal: Build things that are useful, scalable, and just a little bit cool
+
+📬 Reach me at srijith1912@gmail.com
