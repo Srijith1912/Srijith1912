@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi, I’m Srijith Mulupuri<br><br>🎓 CS junior @ ASU<br>🔧 MERN, ML & AWS projects – Summer 2025 grind 💻☁️<br>🏅 5+ certs, active GitHub, always building<br>🚀 Seeking 2025–26 SWE/Data Eng internship<br>🧠 Learning React, AI & scalable systems<br>⚙️ JavaScript | Python | Java | MongoDB | AWS<br><br>📫 smulupur@asu.edu
 
 
